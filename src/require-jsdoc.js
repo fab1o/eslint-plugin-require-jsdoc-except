@@ -1,4 +1,4 @@
-const baseRule = require('eslint/lib/rules/require-jsdoc');
+const baseRule = require('eslint-plugin-jsdoc');
 const assignIn = require('lodash.assignin');
 const get = require('lodash.get');
 
